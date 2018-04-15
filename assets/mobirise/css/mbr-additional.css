@@ -44,7 +44,7 @@
 #dropdown-menu-2btn-9 .nav .link,
 #dropdown-menu-2btn-9 .dropdown-item {
   font-size: 1.2em;
-  color: #000000;
+  color: #ffffff;
 }
 #dropdown-menu-2btn-9 .navbar,
 #dropdown-menu-2btn-9 .dropdown-menu {
@@ -56,8 +56,34 @@
   background: #d3d3d3;
 }
 #dropdown-menu-2btn-9 .navbar-toggler {
-  color: #000000;
+  color: #ffffff;
 }
 #dropdown-menu-2btn-9 .btn {
+  font-size: 17px;
+}
+#features1-s P {
+  text-align: center;
+}
+#dropdown-menu-2btn-v .hide-buttons [data-button] {
+  display: none !important;
+}
+#dropdown-menu-2btn-v .nav .link,
+#dropdown-menu-2btn-v .dropdown-item {
+  font-size: 1.2em;
+  color: #000000;
+}
+#dropdown-menu-2btn-v .navbar,
+#dropdown-menu-2btn-v .dropdown-menu {
+  background: #dddddd;
+}
+#dropdown-menu-2btn-v .dropdown-menu .dropdown-toggle[aria-expanded="true"],
+#dropdown-menu-2btn-v .dropdown-menu a:hover,
+#dropdown-menu-2btn-v .dropdown-menu a:focus {
+  background: #d3d3d3;
+}
+#dropdown-menu-2btn-v .navbar-toggler {
+  color: #000000;
+}
+#dropdown-menu-2btn-v .btn {
   font-size: 17px;
 }
