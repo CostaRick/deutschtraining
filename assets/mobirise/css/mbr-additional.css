@@ -70,7 +70,7 @@
 #dropdown-menu-2btn-v .nav .link,
 #dropdown-menu-2btn-v .dropdown-item {
   font-size: 1.2em;
-  color: #000000;
+  color: #ffffff;
 }
 #dropdown-menu-2btn-v .navbar,
 #dropdown-menu-2btn-v .dropdown-menu {
@@ -82,8 +82,42 @@
   background: #d3d3d3;
 }
 #dropdown-menu-2btn-v .navbar-toggler {
-  color: #000000;
+  color: #ffffff;
 }
 #dropdown-menu-2btn-v .btn {
+  font-size: 17px;
+}
+#header1-11 H1 {
+  text-align: center;
+  color: #000000;
+}
+#slider-1a H2 {
+  color: #000000;
+  text-align: left;
+}
+#features1-12 P {
+  text-align: center;
+}
+#dropdown-menu-2btn-13 .hide-buttons [data-button] {
+  display: none !important;
+}
+#dropdown-menu-2btn-13 .nav .link,
+#dropdown-menu-2btn-13 .dropdown-item {
+  font-size: 1.2em;
+  color: #ffffff;
+}
+#dropdown-menu-2btn-13 .navbar,
+#dropdown-menu-2btn-13 .dropdown-menu {
+  background: #dddddd;
+}
+#dropdown-menu-2btn-13 .dropdown-menu .dropdown-toggle[aria-expanded="true"],
+#dropdown-menu-2btn-13 .dropdown-menu a:hover,
+#dropdown-menu-2btn-13 .dropdown-menu a:focus {
+  background: #d3d3d3;
+}
+#dropdown-menu-2btn-13 .navbar-toggler {
+  color: #ffffff;
+}
+#dropdown-menu-2btn-13 .btn {
   font-size: 17px;
 }
