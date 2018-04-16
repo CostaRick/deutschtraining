@@ -30,6 +30,32 @@
 #msg-box2-n H2 {
   color: #ffffff;
 }
+#features1-s P {
+  text-align: center;
+}
+#dropdown-menu-2btn-v .hide-buttons [data-button] {
+  display: none !important;
+}
+#dropdown-menu-2btn-v .nav .link,
+#dropdown-menu-2btn-v .dropdown-item {
+  font-size: 1.2em;
+  color: #ffffff;
+}
+#dropdown-menu-2btn-v .navbar,
+#dropdown-menu-2btn-v .dropdown-menu {
+  background: #dddddd;
+}
+#dropdown-menu-2btn-v .dropdown-menu .dropdown-toggle[aria-expanded="true"],
+#dropdown-menu-2btn-v .dropdown-menu a:hover,
+#dropdown-menu-2btn-v .dropdown-menu a:focus {
+  background: #d3d3d3;
+}
+#dropdown-menu-2btn-v .navbar-toggler {
+  color: #ffffff;
+}
+#dropdown-menu-2btn-v .btn {
+  font-size: 17px;
+}
 #slider-b H2 {
   color: #ffffff;
   text-align: center;
@@ -61,30 +87,30 @@
 #dropdown-menu-2btn-9 .btn {
   font-size: 17px;
 }
-#features1-s P {
+#features1-1e P {
   text-align: center;
 }
-#dropdown-menu-2btn-v .hide-buttons [data-button] {
+#dropdown-menu-2btn-1f .hide-buttons [data-button] {
   display: none !important;
 }
-#dropdown-menu-2btn-v .nav .link,
-#dropdown-menu-2btn-v .dropdown-item {
+#dropdown-menu-2btn-1f .nav .link,
+#dropdown-menu-2btn-1f .dropdown-item {
   font-size: 1.2em;
   color: #ffffff;
 }
-#dropdown-menu-2btn-v .navbar,
-#dropdown-menu-2btn-v .dropdown-menu {
+#dropdown-menu-2btn-1f .navbar,
+#dropdown-menu-2btn-1f .dropdown-menu {
   background: #dddddd;
 }
-#dropdown-menu-2btn-v .dropdown-menu .dropdown-toggle[aria-expanded="true"],
-#dropdown-menu-2btn-v .dropdown-menu a:hover,
-#dropdown-menu-2btn-v .dropdown-menu a:focus {
+#dropdown-menu-2btn-1f .dropdown-menu .dropdown-toggle[aria-expanded="true"],
+#dropdown-menu-2btn-1f .dropdown-menu a:hover,
+#dropdown-menu-2btn-1f .dropdown-menu a:focus {
   background: #d3d3d3;
 }
-#dropdown-menu-2btn-v .navbar-toggler {
+#dropdown-menu-2btn-1f .navbar-toggler {
   color: #ffffff;
 }
-#dropdown-menu-2btn-v .btn {
+#dropdown-menu-2btn-1f .btn {
   font-size: 17px;
 }
 #header1-11 H1 {
@@ -94,6 +120,11 @@
 #slider-1a H2 {
   color: #000000;
   text-align: left;
+}
+#content4-1i .table {
+  width: 100%;
+  margin-left: auto;
+  margin-right: auto;
 }
 #features1-12 P {
   text-align: center;

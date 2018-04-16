@@ -1,7 +1,7 @@
 {
   "settings": {
     "name": "Website Training",
-    "currentPage": "page2.html",
+    "currentPage": "regelmaessiges_praesens.html",
     "theme": {
       "name": "purity",
       "title": "PurityM",
@@ -12,7 +12,7 @@
     },
     "path": "@PROJECT_PATH@",
     "versionFirst": "4.6.6",
-    "uniqCompNum": 47,
+    "uniqCompNum": 55,
     "versionPublish": "4.7.1",
     "screenshot": "screenshot.png"
   },
@@ -501,7 +501,270 @@
         }
       ]
     },
-    "page1.html": {
+    "praesens.html": {
+      "settings": {
+        "title": "Präsens",
+        "order": 2
+      },
+      "components": [
+        {
+          "_params": {
+            "showTitle": true,
+            "showText": false,
+            "showButtons": false,
+            "showArrow": true,
+            "contentAlign": "center",
+            "bgImageRadio": true,
+            "bgImage": "@PROJECT_PATH@/assets/images/photo-1.jpg",
+            "parallax": true,
+            "bgColorRadio": false,
+            "bgColor": "#fff8e0",
+            "bgVideoRadio": false,
+            "bgVideo": {
+              "url": "https://www.youtube.com/watch?v=uNCr7NdOJgw"
+            },
+            "overlay": false,
+            "overlayColor": "#ffffff",
+            "overlayOpacity": 0.5
+          },
+          "title": "Trainingsbereich: Präsens",
+          "text": "Click any text to edit or style it. Click blue \"Gear\" icon in the top right corner to hide/show buttons, text, title and change the block background. <br> Click red \"+\" in the bottom right corner to add a new block. Use the top left menu to create new pages, sites and add extensions.",
+          "buttons": "<a data-app-btn=\"true\" class=\"btn btn-lg btn-secondary-outline\" href=\"https://mobirise.com\">Download Now</a> <a data-app-btn=\"true\" class=\"btn btn-lg btn-white\" href=\"https://mobirise.com\">Learn More</a>",
+          "alias": "purity/components",
+          "_tags": [
+            "Theme"
+          ],
+          "_name": "header1",
+          "_anchor": "header1-10"
+        },
+        {
+          "_params": {
+            "showImages": false,
+            "showTitles": true,
+            "showCaptions": true,
+            "showButtons": true,
+            "paddingTop": 3,
+            "paddingBottom": 3,
+            "columns": "3",
+            "bgImageRadio": true,
+            "bgImage": "@PROJECT_PATH@/assets/images/mbr-7-1620x1080.jpg",
+            "parallax": true,
+            "bgColorRadio": false,
+            "bgColor": "#fff",
+            "bgVideoRadio": false,
+            "bgVideo": {
+              "url": "https://www.youtube.com/watch?v=uNCr7NdOJgw"
+            },
+            "overlay": false,
+            "overlayColor": "#222",
+            "overlayOpacity": 0.5
+          },
+          "media1": {
+            "image": {
+              "src": "@PROJECT_PATH@/assets/images/praesens-icon.svg",
+              "class": "card-img-top",
+              "width": 600,
+              "active": true,
+              "link": "",
+              "alt": "Präsens",
+              "title": "Präsens"
+            },
+            "iconFont": {
+              "class": "mbr-iconfont mbr-iconfont-features1",
+              "linkInNewWindow": false,
+              "name": "touch",
+              "family": "MobiriseIcons",
+              "link": "",
+              "size": 0
+            }
+          },
+          "media2": {
+            "image": {
+              "src": "@PROJECT_PATH@/assets/images/zukunft-icon.svg",
+              "class": "card-img-top",
+              "width": 600,
+              "active": true,
+              "link": "",
+              "alt": "Zukunft",
+              "title": "Zukunft"
+            },
+            "iconFont": {
+              "class": "mbr-iconfont mbr-iconfont-features1",
+              "linkInNewWindow": false,
+              "name": "preview",
+              "family": "MobiriseIcons",
+              "link": "",
+              "size": 0
+            }
+          },
+          "media3": {
+            "image": {
+              "src": "@PROJECT_PATH@/assets/images/vergangenheit-icon.svg",
+              "class": "card-img-top",
+              "width": 600,
+              "active": true,
+              "link": "",
+              "alt": "Vergangenheit",
+              "title": "Vergangenheit"
+            },
+            "iconFont": {
+              "class": "mbr-iconfont mbr-iconfont-features1",
+              "linkInNewWindow": false,
+              "name": "android",
+              "family": "MobiriseIcons",
+              "link": "",
+              "size": 0
+            }
+          },
+          "media4": {
+            "image": {
+              "src": "@THEME_PATH@/components/_images/feature-websites.png",
+              "class": "card-img-top",
+              "width": 600
+            },
+            "iconFont": {
+              "class": "mbr-iconfont mbr-iconfont-features1",
+              "linkInNewWindow": false,
+              "name": "key",
+              "family": "MobiriseIcons",
+              "link": "",
+              "size": 0,
+              "active": true
+            }
+          },
+          "title1": "Der Infinitiv<br><br>",
+          "caption1": "<i>The infinitive</i>",
+          "title2": "Präsens bei regelmäßigen Verben",
+          "caption2": "<i>Present with regular verbs.</i>",
+          "title3": "Präsens bei unregelmäßigen Verben",
+          "caption3": "<i>Present with irregular verbs</i>",
+          "title4": "4 Satzstrukturen",
+          "caption4": "Mobirise gives you the freedom to develop as many websites as you like given the fact that it is a desktop app.",
+          "button1": "<a data-app-btn=\"true\" href=\"page4.html\" class=\"btn btn-secondary-outline\" data-toolbar=\"-mbrBtnMove\"><span class=\"mbri-mobirise mbr-iconfont mbr-iconfont-btn\"></span>Erklärung</a>  <a data-app-btn=\"true\" href=\"https://mobirise.com\" class=\"btn btn-success-outline btn-success\" data-toolbar=\"-mbrBtnMove\"><span class=\"mbri-rocket mbr-iconfont mbr-iconfont-btn\"></span>Übungen</a> ",
+          "button2": "<a data-app-btn=\"true\" href=\"page3.html\" class=\"btn btn-secondary-outline\" data-toolbar=\"-mbrBtnMove\"><span class=\"mbri-mobirise mbr-iconfont mbr-iconfont-btn\"></span>&nbsp;Erklärung</a>   <a data-app-btn=\"true\" href=\"https://mobirise.com\" class=\"btn btn-success-outline btn-success\" data-toolbar=\"-mbrBtnMove\"><span class=\"mbri-rocket mbr-iconfont mbr-iconfont-btn\"></span>&nbsp;Übungen</a>",
+          "button3": "<a data-app-btn=\"true\" href=\"https://mobirise.com\" class=\"btn btn-secondary-outline\" data-toolbar=\"-mbrBtnMove\"><span class=\"mbri-mobirise mbr-iconfont mbr-iconfont-btn\"></span>Erklärung</a> <a data-app-btn=\"true\" href=\"https://mobirise.com\" class=\"btn btn-success-outline btn-success\" data-toolbar=\"-mbrBtnMove\"><span class=\"mbri-rocket mbr-iconfont mbr-iconfont-btn\"></span>Übungen</a>",
+          "button4": "<a data-app-btn=\"true\" href=\"https://mobirise.com\" class=\"btn btn-secondary-outline\">More</a>",
+          "alias": "purity/components",
+          "_tags": [
+            "Theme"
+          ],
+          "_name": "features1",
+          "_anchor": "features1-s",
+          "_styles": {
+            "P": {
+              "text-align": "center"
+            }
+          }
+        },
+        {
+          "_inherit": "dropdown-menu",
+          "_params": {
+            "logo": true,
+            "showBrand": true,
+            "hideButtons": false,
+            "sticky": false,
+            "transparent": true,
+            "bgColor": "#dddddd",
+            "fontSize": "1.2",
+            "fontName": {},
+            "fontColor": "#ffffff"
+          },
+          "items": "<li class=\"nav-item dropdown\"><a data-app-btn=\"true\" class=\"nav-link link dropdown-toggle\" data-toggle=\"dropdown-submenu\" href=\"https://mobirise.com/\" aria-expanded=\"false\">wähle dein Training</a><div class=\"dropdown-menu\"><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"https://mobirise.com/\">Lesen</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"https://mobirise.com/\">Hören</a><div class=\"dropdown\"><a data-app-btn=\"true\" class=\"dropdown-item dropdown-toggle\" data-toggle=\"dropdown-submenu\" href=\"page1.html\" aria-expanded=\"false\">Grammatik</a><div class=\"dropdown-menu dropdown-submenu\"><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"https://mobirise.com/\">Image/content slider</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"https://mobirise.com/\">Contact forms</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"https://mobirise.com/\">Image gallery</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"https://mobirise.com/\">Mobile menu</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"https://mobirise.com/\">Google maps</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"https://mobirise.com/\">Social buttons</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"https://mobirise.com/\">Google fonts</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"https://mobirise.com/\">Video background</a></div></div><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"https://mobirise.com/\">Vokabeln</a></div></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"https://mobirise.com/\">Kontakt</a></li><li class=\"nav-item nav-btn\"><a data-app-btn=\"true\" data-button=\"\" data-app-selector=\".btn\" class=\"nav-link btn btn-white-outline btn-white\" href=\"https://mobirise.com/\">passende Kurse buchen</a></li><li class=\"nav-item nav-btn\"><a data-app-btn=\"true\" data-button=\"\" data-app-selector=\".btn\" class=\"nav-link btn btn-danger\" href=\"https://mobirise.com/\">Englisch Trainingbereich</a></li>",
+          "_tags": [
+            "Theme"
+          ],
+          "_styles": {
+            ".hide-buttons [data-button]": {
+              "display": "none !important"
+            },
+            ".navbar-brand a": {},
+            ".nav .link, .dropdown-item": {
+              "font-size": "1.2em",
+              "color": "#ffffff"
+            },
+            ".navbar, .dropdown-menu": {
+              "background": "#dddddd"
+            },
+            ".dropdown-menu .dropdown-toggle[aria-expanded=\"true\"], .dropdown-menu a:hover, .dropdown-menu a:focus": {
+              "background": "#d3d3d3"
+            },
+            ".navbar-toggler": {
+              "color": "#ffffff"
+            },
+            ".btn": {
+              "font-size": "17px"
+            }
+          },
+          "logo": {
+            "image": {
+              "active": true,
+              "src": "@PROJECT_PATH@/assets/images/lcmainlogowhite-1.svg",
+              "class": "",
+              "height": 128,
+              "alt": "Mobirise",
+              "link": "http://www.language-college.com",
+              "title": "",
+              "linkInNewWindow": false
+            }
+          },
+          "brand": "<a class=\"text-white\" data-app-selector=\".navbar-brand a\" data-app-btn=\"true\" href=\"https://mobirise.com\" data-app-placeholder=\"Type Brand Name\" data-toolbar=\"-mbrBtnMove,-mbrBtnAdd,-mbrBtnRemove,mbrColor\">Language College</a>",
+          "_name": "dropdown-menu-2btn",
+          "_anchor": "dropdown-menu-2btn-v"
+        },
+        {
+          "_params": {
+            "paddingTop": 3,
+            "paddingBottom": 3,
+            "bgImageRadio": false,
+            "bgImage": "@THEME_PATH@/components/_images/photo-3.jpg",
+            "parallax": true,
+            "bgColorRadio": true,
+            "bgColor": "#37383e",
+            "overlay": true,
+            "overlayColor": "#3C3C3C",
+            "overlayOpacity": 0.8
+          },
+          "buttons": "<a data-app-btn=\"true\" type=\"submit\" class=\"btn btn-black\" data-toolbar=\"-mbrLink,-mbrBtnAdd,-mbrBtnMove\">abschicken</a>",
+          "text1": "<strong>Addresse</strong><br>\nRheinaustr. 5<br>\n68163 Mannheim<br><br>\n<strong>Kontakt</strong><br>\nEmail: info@language-college.com<br>\nPhone: (+49) 621 18065769<br><br>",
+          "text2": "<b>auch interessant</b><br><ul><li>Language College Kursseite</li><li>Teste dein Sprachlevel</li></ul>",
+          "form": {
+            "title": "MESSAGE",
+            "action": "sascha_dilger@zoologie-online.de",
+            "alerts": {
+              "success": "Danke!"
+            },
+            "fields": {
+              "name": {
+                "visible": true,
+                "title": "Name",
+                "customTitle": "Name*"
+              },
+              "email": {
+                "visible": true,
+                "title": "Email",
+                "customTitle": "Email*"
+              },
+              "phone": {
+                "visible": false,
+                "title": "Phone",
+                "customTitle": "Phone"
+              },
+              "message": {
+                "title": "Message",
+                "customTitle": "Nachricht"
+              }
+            }
+          },
+          "alias": "purity/components",
+          "_tags": [
+            "Theme"
+          ],
+          "_name": "contacts3",
+          "_anchor": "contacts3-w"
+        }
+      ]
+    },
+    "grammatik.html": {
       "settings": {
         "title": "Grammatik",
         "order": 1
@@ -881,10 +1144,10 @@
         }
       ]
     },
-    "page2.html": {
+    "infinitiv.html": {
       "settings": {
-        "title": "Präsens",
-        "order": 2
+        "title": "Infinitiv",
+        "order": 3
       },
       "components": [
         {
@@ -907,7 +1170,7 @@
             "overlayColor": "#ffffff",
             "overlayOpacity": 0.5
           },
-          "title": "Trainingsbereich: Präsens / Present",
+          "title": "Trainingsbereich: Präsens",
           "text": "Click any text to edit or style it. Click blue \"Gear\" icon in the top right corner to hide/show buttons, text, title and change the block background. <br> Click red \"+\" in the bottom right corner to add a new block. Use the top left menu to create new pages, sites and add extensions.",
           "buttons": "<a data-app-btn=\"true\" class=\"btn btn-lg btn-secondary-outline\" href=\"https://mobirise.com\">Download Now</a> <a data-app-btn=\"true\" class=\"btn btn-lg btn-white\" href=\"https://mobirise.com\">Learn More</a>",
           "alias": "purity/components",
@@ -915,7 +1178,35 @@
             "Theme"
           ],
           "_name": "header1",
-          "_anchor": "header1-10"
+          "_anchor": "header1-1c"
+        },
+        {
+          "_params": {
+            "showTitle": true,
+            "showCaption": true,
+            "paddingTop": 3,
+            "paddingBottom": 3,
+            "bgImageRadio": true,
+            "bgImage": "@PROJECT_PATH@/assets/images/mbr-1080x1080.jpg",
+            "parallax": true,
+            "bgColorRadio": false,
+            "bgColor": "#fff",
+            "bgVideoRadio": false,
+            "bgVideo": {
+              "url": "https://www.youtube.com/watch?v=uNCr7NdOJgw"
+            },
+            "overlay": true,
+            "overlayColor": "#fff",
+            "overlayOpacity": 0.7
+          },
+          "title": "Der Infinitiv im Deutschen - <i>The infinitive in German</i>",
+          "caption": "<p>Der Infinitiv endet im Deutschen immer  auf \"-en\". <br>z.B. bau<b>en</b>, spiel<b>en</b>,&nbsp;<span style=\"font-size: 1.25rem;\">ess<b>en</b>, trink<b>en</b>, mach<b>en</b>...</span></p><p>\n</p><p><i>The German infinitive always ends on</i> \"-<b>en</b>\",<i> e.g. </i>bau<b>en</b> <i>(to build)</i>, spiel<b>en</b><span style=\"font-size: 1.25rem;\"><i>(to play)</i>, ess<b>en</b><i>(to eat)</i>, trink<b>en</b><i>(to drink)</i>, mach<b>en</b><i>(to do)</i>...</span></p>",
+          "alias": "purity/components",
+          "_tags": [
+            "Theme"
+          ],
+          "_name": "content5",
+          "_anchor": "content5-1d"
         },
         {
           "_params": {
@@ -1029,12 +1320,12 @@
             "Theme"
           ],
           "_name": "features1",
-          "_anchor": "features1-s",
           "_styles": {
             "P": {
               "text-align": "center"
             }
-          }
+          },
+          "_anchor": "features1-1e"
         },
         {
           "_inherit": "dropdown-menu",
@@ -1089,7 +1380,7 @@
           },
           "brand": "<a class=\"text-white\" data-app-selector=\".navbar-brand a\" data-app-btn=\"true\" href=\"https://mobirise.com\" data-app-placeholder=\"Type Brand Name\" data-toolbar=\"-mbrBtnMove,-mbrBtnAdd,-mbrBtnRemove,mbrColor\">Language College</a>",
           "_name": "dropdown-menu-2btn",
-          "_anchor": "dropdown-menu-2btn-v"
+          "_anchor": "dropdown-menu-2btn-1f"
         },
         {
           "_params": {
@@ -1140,14 +1431,14 @@
             "Theme"
           ],
           "_name": "contacts3",
-          "_anchor": "contacts3-w"
+          "_anchor": "contacts3-1g"
         }
       ]
     },
-    "page3.html": {
+    "regelmaessiges_praesens.html": {
       "settings": {
         "title": "reguläres Präsens Erklärung",
-        "order": 3
+        "order": 4
       },
       "components": [
         {
@@ -1170,7 +1461,7 @@
             "overlayColor": "#ffffff",
             "overlayOpacity": 0.5
           },
-          "title": "Ich spreche Deutsch: Präsens / Present",
+          "title": "regelmäßiges Präsens / <i>regular present</i>",
           "text": "Click any text to edit or style it. Click blue \"Gear\" icon in the top right corner to hide/show buttons, text, title and change the block background. <br> Click red \"+\" in the bottom right corner to add a new block. Use the top left menu to create new pages, sites and add extensions.",
           "buttons": "<a data-app-btn=\"true\" class=\"btn btn-lg btn-secondary-outline\" href=\"https://mobirise.com\">Download Now</a> <a data-app-btn=\"true\" class=\"btn btn-lg btn-white\" href=\"https://mobirise.com\">Learn More</a>",
           "alias": "purity/components",
@@ -1231,7 +1522,7 @@
               "size": 0
             }
           },
-          "title": "Das Präsens - The present",
+          "title": "Das Präsens bei Verben ohne Vokalwechsel - The present without vowel change",
           "text": "<p>Das Präsens ist die wichtigste Zeit im Deutsch. Wir können sie nutzen \n<span style=\"font-size: 1.25rem;\">um auszudrücken, was im Moment geschieht. &nbsp;</span></p><p>\n</p><p><i>The present tense is the most important tense in German. We use it when \n<span style=\"font-size: 1.25rem;\">we are telling what is happening at the moment.</span></i></p>",
           "alias": "purity/components",
           "_tags": [
@@ -1315,6 +1606,79 @@
               "text-align": "left"
             }
           }
+        },
+        {
+          "_params": {
+            "showTitle": true,
+            "showCaption": true,
+            "paddingTop": 3,
+            "paddingBottom": 3,
+            "bgImageRadio": true,
+            "bgImage": "@PROJECT_PATH@/assets/images/mbr-1080x1080.jpg",
+            "parallax": true,
+            "bgColorRadio": false,
+            "bgColor": "#fff",
+            "bgVideoRadio": false,
+            "bgVideo": {
+              "url": "https://www.youtube.com/watch?v=uNCr7NdOJgw"
+            },
+            "overlay": true,
+            "overlayColor": "#fff",
+            "overlayOpacity": 0.7
+          },
+          "title": "Konjugieren",
+          "caption": "<p>Der Infinitiv endet im Deutschen immer  auf \"-en\". <br>z.B. bau<b>en</b>, spiel<b>en</b>,&nbsp;<span style=\"font-size: 1.25rem;\">ess<b>en</b>, trink<b>en</b>, mach<b>en</b>...</span></p><p>\n</p><p><i>The German infinitive always ends on</i> \"-<b>en</b>\",<i> e.g. </i>bau<b>en</b> <i>(to build)</i>, spiel<b>en</b><span style=\"font-size: 1.25rem;\"><i>(to play)</i>, ess<b>en</b><i>(to eat)</i>, trink<b>en</b><i>(to drink)</i>, mach<b>en</b><i>(to do)</i>...</span></p>",
+          "alias": "purity/components",
+          "_tags": [
+            "Theme"
+          ],
+          "_name": "content5",
+          "_anchor": "content5-1h",
+          "_customHTML": "<section class=\"mbr-section mbr-parallax-background col-undefined\" data-rv-view=\"923\" style=\"background-image: url(&quot;@PROJECT_PATH@/assets/images/mbr-1080x1080.jpg&quot;); padding-top: 9rem; padding-bottom: 9rem;\">\n    <div class=\"mbr-overlay\" style=\"opacity: 0.7; background-color: rgb(255, 255, 255);\"></div>\n    <div class=\"container\">\n        <h3 class=\"mbr-section-title display-2 mbr-editable-content\" code-editable-id=\"70\">Konjugieren</h3>\n        <div class=\"lead mbr-editable-content\" code-editable-id=\"71\"><p>Der Infinitiv endet im Deutschen immer  auf \"-en\". <br>z.B. bau<strong>en</strong>, spiel<strong>en</strong>,&nbsp;<span style=\"font-size: 1.25rem;\">ess<strong>en</strong>, trink<strong>en</strong>, mach<strong>en</strong>...</span></p><p>\n</p><p><em>The German infinitive always ends on</em> \"-<strong>en</strong>\",<em> e.g. </em>bau<strong>en</strong> <em>(to build)</em>, spiel<strong>en</strong><span style=\"font-size: 1.25rem;\"><em>(to play)</em>, ess<strong>en</strong><em>(to eat)</em>, trink<strong>en</strong><em>(to drink)</em>, mach<strong>en</strong><em>(to do)</em>...</span></p></div>\n    \n    \n            <table class=\"table table-striped table-hover table-responsive\">\n\t<thead>\n\t\t<tr class=\"table-active\">\n\t\t\t<th>\n\t\t\t\t+\n\t\t\t</th>\n\t\t\t<th>\n\t\t\t\treguläres Präsens\n\t\t\t</th>\n\t\t\t<th>\n\t\t\t\t\n\t\t\t</th>\n\t\t\t<th>\n              <em>regular Present</em>\n\t\t\t</th>\n\t\t\t<th>\n\t\t\t\t\n\t\t\t</th>\n\t\t</tr>\n\t</thead>\n\t<tbody>\n\t\t<tr class=\"table-light\">\n\t\t\t<td>\n\t\t\t\t1.P.Sg.\n\t\t\t</td>\n\t\t\t<td>\n\t\t\t\tIch\n\t\t\t</td>\n\t\t\t<td>\n              geh<strong>e</strong>.\n\t\t\t</td>\n\t\t\t<td>\n              <em>I</em>\n\t\t\t</td>\n\t\t\t<td>\n              <em>am going</em>.\n\t\t\t</td>\n\t\t</tr>\n\t\t<tr class=\"table-warning\">\n\t\t\t<td>\n\t\t\t\t2.P.Sg.\n\t\t\t</td>\n\t\t\t<td>\n\t\t\t\tDu\n\t\t\t</td>\n\t\t\t<td>\n              geh<strong>st</strong>.\n\t\t\t</td>\n\t\t\t<td>\n              <em>You</em>\n\t\t\t</td>\n\t\t\t<td>\n              <em>are going.</em>\n\t\t\t</td>\n\t\t</tr>\n\t\t<tr class=\"table-success\">\n\t\t\t<td>\n\t\t\t\t3.P.Sg.\n\t\t\t</td>\n\t\t\t<td>\n              Er/Sie/Es/Man\n\t\t\t</td>\n\t\t\t<td>\n              geh<strong>t</strong>.\n\t\t\t</td>\n\t\t\t<td>\n              <em>He/She/It</em>\n\t\t\t</td>\n\t\t\t<td>\n              <em>is going</em>.\n\t\t\t</td>\n\t\t</tr>\n\t\t<tr class=\"table-active\">\n\t\t\t<td>\n\t\t\t\t1.P.Pl.\n\t\t\t</td>\n\t\t\t<td>\n\t\t\t\tWir\n\t\t\t</td>\n\t\t\t<td>\n              geh<strong>en</strong>.\n\t\t\t</td>\n\t\t\t<td>\n              <em>We</em>\n\t\t\t</td>\n\t\t\t<td>\n              <em>are going</em>.\n\t\t\t</td>\n\t\t</tr>\n\t\t<tr class=\"table-warning\">\n\t\t\t<td>\n\t\t\t\t2.P.Pl.\n\t\t\t</td>\n\t\t\t<td>\n\t\t\t\tIhr\n\t\t\t</td>\n\t\t\t<td>\n              geh<strong>t</strong>.\n\t\t\t</td>\n\t\t\t<td>\n              <em>You</em>\n\t\t\t</td>\n\t\t\t<td>\n              <em>are going</em>.\n\t\t\t</td>\n\t\t</tr>\n\t\t<tr class=\"table-success\">\n\t\t\t<td>\n\t\t\t\t3.P.Pl.\n\t\t\t</td>\n\t\t\t<td>\n                Sie\n\t\t\t</td>\n\t\t\t<td>\n              geh<strong>en</strong>.\n\t\t\t</td>\n\t\t\t<td>\n              <em>They</em>\n\t\t\t</td>\n\t\t\t<td>\n              <em>are going</em>.\n\t\t\t</td>\n\t\t</tr>\n\t\t<tr class=\"table-dark\">\n\t\t\t<td>\n\t\t\t\t\n\t\t\t</td>\n\t\t\t<td>\n\t\t\t\t\n\t\t\t</td>\n\t\t\t<td>\n\t\t\t\t\n\t\t\t</td>\n\t\t\t<td>\n\t\t\t\t\n\t\t\t</td>\n\t\t\t<td>\n\t\t\t\t\n\t\t\t</td>\n\t\t</tr>\n\t</tbody>\n</table>\n        \n    \n    </div>\n\n</section>",
+          "_PHPplaceholders": [],
+          "_JSplaceholders": [],
+          "_customCSS": "",
+          "_customTemplate": true
+        },
+        {
+          "_params": {
+            "showTitles": true,
+            "showCaptions": true,
+            "paddingTop": 3,
+            "paddingBottom": 3,
+            "columns": "3",
+            "bgImageRadio": true,
+            "bgImage": "@PROJECT_PATH@/assets/images/mbr-12-1620x1080.jpg",
+            "parallax": true,
+            "bgColorRadio": false,
+            "bgColor": "#fff",
+            "bgVideoRadio": false,
+            "bgVideo": {
+              "url": "https://www.youtube.com/watch?v=uNCr7NdOJgw"
+            },
+            "overlay": true,
+            "overlayColor": "#222",
+            "overlayOpacity": 0.5
+          },
+          "title1": "+",
+          "caption1": "XXX",
+          "title2": "-",
+          "caption2": "XXX",
+          "title3": "?",
+          "caption3": "XXX",
+          "title4": "Unlimited Websites",
+          "caption4": "Mobirise gives you the freedom to develop as many websites as you like given the fact that it is a desktop app.",
+          "alias": "purity/components",
+          "_tags": [
+            "Theme"
+          ],
+          "_name": "content4",
+          "_anchor": "content4-1i",
+          "_customHTML": "<section class=\"mbr-section mbr-section-small mbr-parallax-background\" data-rv-view=\"958\" style=\"background-image: url(&quot;@PROJECT_PATH@/assets/images/mbr-12-1620x1080.jpg&quot;); padding-top: 4.5rem; padding-bottom: 4.5rem;\">\n    <div class=\"mbr-overlay\" style=\"opacity: 0.5; background-color: rgb(34, 34, 34);\"></div>\n    <div class=\"container\">\n        <div class=\"row\">\n            <div class=\"col-sm-6 col-md-4\">\n                <div class=\"card cart-block\">\n                    <div class=\"card-block\">\n                        <h4 class=\"card-title text-xs-center mbr-editable-content\" code-editable-id=\"331\">+</h4>\n                        <p class=\"card-text mbr-editable-content\" code-editable-id=\"332\">\n                        </p><table class=\"table table-striped table-hover table-responsive\">\n\t<thead>\n\t\t<tr class=\"table-active\">\n\t\t\t<th>\n\t\t\t\t\n\t\t\t</th>\n\t\t\t<th>\n\t\t\t\t\n\t\t\t</th>\n\t\t\t<th>\n\t\t\t\t\n\t\t\t</th>\n\t\t\n\t</tr></thead>\n\t<tbody>\n\t\t<tr class=\"table-light\">\n\t\t\t<td>\n\t\t\t\t1.P.Sg.\n\t\t\t</td>\n\t\t\t<td>\n\t\t\t\tIch\n\t\t\t</td>\n\t\t\t<td>\n              geh<strong>e</strong>.\n\t\t\t</td>\n\t\t\n\t\t</tr>\n\t\t<tr class=\"table-warning\">\n\t\t\t<td>\n\t\t\t\t2.P.Sg.\n\t\t\t</td>\n\t\t\t<td>\n\t\t\t\tDu\n\t\t\t</td>\n\t\t\t<td>\n              geh<strong>st</strong>.\n\t\t\t</td>\n\t\t\n\t\t</tr>\n\t\t<tr class=\"table-success\">\n\t\t\t<td>\n\t\t\t\t3.P.Sg.\n\t\t\t</td>\n\t\t\t<td>\n              Er/Sie/Es/Man\n\t\t\t</td>\n\t\t\t<td>\n              geh<strong>t</strong>.\n\t\t\t</td>\n\t\t\n\t\t</tr>\n\t\t<tr class=\"table-light\">\n\t\t\t<td>\n\t\t\t\t1.P.Pl.\n\t\t\t</td>\n\t\t\t<td>\n\t\t\t\tWir\n\t\t\t</td>\n\t\t\t<td>\n              geh<strong>en</strong>.\n\t\t\t</td>\n\t\t\n\t\t</tr>\n\t\t<tr class=\"table-warning\">\n\t\t\t<td>\n\t\t\t\t2.P.Pl.\n\t\t\t</td>\n\t\t\t<td>\n\t\t\t\tIhr\n\t\t\t</td>\n\t\t\t<td>\n              geh<strong>t</strong>.\n\t\t\t</td>\n\t\t\n\t\t</tr>\n\t\t<tr class=\"table-success\">\n\t\t\t<td>\n\t\t\t\t3.P.Pl.\n\t\t\t</td>\n\t\t\t<td>\n                Sie\n\t\t\t</td>\n\t\t\t<td>\n              geh<strong>en</strong>.\n\t\t\t</td>\n\t\t\n\t\t</tr><tr class=\"table-dark\">\n\t\t\t<td>\n\t\t\t\t\n\t\t\t</td>\n\t\t\t<td>\n\t\t\t\t\n\t\t\t</td>\n\t\t\t<td>\n\t\t\t\t\n\t\t\t</td>\n\t\t\t\n\t\t</tr>\n\t</tbody>\n</table>\n                    </div>\n                </div>\n            </div>\n            <div class=\"col-sm-6 col-md-4\">\n                <div class=\"card cart-block\">\n                    <div class=\"card-block\">\n                        <h4 class=\"card-title text-xs-center mbr-editable-content\" code-editable-id=\"333\">-</h4>\n                        <p class=\"card-text mbr-editable-content\" code-editable-id=\"334\">\n                            </p><table class=\"table table-striped table-hover table-responsive\">\n\t<thead>\n\t\t<tr class=\"table-active\">\n\t\t\t<th>\n\t\t\t\t\n\t\t\t</th>\n\t\t\t<th>\n\t\t\t\t\n\t\t\t</th>\n\t\t\t<th>\n\t\t\t\t\n\t\t\t</th>\n\t\t\n\t</tr></thead>\n\t<tbody>\n\t\t<tr class=\"table-light\">\n\t\t\t<td>\n\t\t\t\t1.P.Sg.\n\t\t\t</td>\n\t\t\t<td>\n\t\t\t\tIch\n\t\t\t</td>\n\t\t\t<td>\n              geh<strong>e</strong> nicht.\n\t\t\t</td>\n\t\t\n\t\t</tr>\n\t\t<tr class=\"table-warning\">\n\t\t\t<td>\n\t\t\t\t2.P.Sg.\n\t\t\t</td>\n\t\t\t<td>\n\t\t\t\tDu\n\t\t\t</td>\n\t\t\t<td>\n              geh<strong>st</strong> nicht.\n\t\t\t</td>\n\t\t\n\t\t</tr>\n\t\t<tr class=\"table-success\">\n\t\t\t<td>\n\t\t\t\t3.P.Sg.\n\t\t\t</td>\n\t\t\t<td>\n              Er/Sie/Es/Man\n\t\t\t</td>\n\t\t\t<td>\n              geh<strong>t</strong> nicht.\n\t\t\t</td>\n\t\t\n\t\t</tr>\n\t\t<tr class=\"table-light\">\n\t\t\t<td>\n\t\t\t\t1.P.Pl.\n\t\t\t</td>\n\t\t\t<td>\n\t\t\t\tWir\n\t\t\t</td>\n\t\t\t<td>\n              geh<strong>en</strong> nicht.\n\t\t\t</td>\n\t\t\n\t\t</tr>\n\t\t<tr class=\"table-warning\">\n\t\t\t<td>\n\t\t\t\t2.P.Pl.\n\t\t\t</td>\n\t\t\t<td>\n\t\t\t\tIhr\n\t\t\t</td>\n\t\t\t<td>\n              geh<strong>t</strong> nicht.\n\t\t\t</td>\n\t\t\n\t\t</tr>\n\t\t<tr class=\"table-success\">\n\t\t\t<td>\n\t\t\t\t3.P.Pl.\n\t\t\t</td>\n\t\t\t<td>\n                Sie\n\t\t\t</td>\n\t\t\t<td>\n              geh<strong>en</strong> nicht.\n\t\t\t</td>\n\t\t\n\t\t</tr><tr class=\"table-dark\">\n\t\t\t<td>\n\t\t\t\t\n\t\t\t</td>\n\t\t\t<td>\n\t\t\t\t\n\t\t\t</td>\n\t\t\t<td>\n\t\t\t\t\n\t\t\t</td>\n\t\t\t\n\t\t</tr>\n\t</tbody>\n</table>\n                            \n                    </div>\n                </div>\n            </div>\n            <div class=\"col-sm-6 col-md-4\">\n                <div class=\"card cart-block\">\n                    <div class=\"card-block\">\n                        <h4 class=\"card-title text-xs-center mbr-editable-content\" code-editable-id=\"335\">?</h4>\n                        <p class=\"card-text mbr-editable-content\" code-editable-id=\"336\">\n                            </p><table class=\"table table-striped table-hover table-responsive\">\n\t<thead>\n\t\t<tr class=\"table-active\">\n\t\t\t<th>\n\t\t\t\t\n\t\t\t</th>\n\t\t\t<th>\n\t\t\t\t\n\t\t\t</th>\n\t\t\t<th>\n\t\t\t\t\n\t\t\t</th>\n\t\t\n\t</tr></thead>\n\t<tbody>\n\t\t<tr class=\"table-light\">\n\t\t\t<td>\n\t\t\t\t1.P.Sg.\n\t\t\t</td>\n\t\t\t<td>\n\t\t\t\tGeh<strong>e</strong>\n\t\t\t</td>\n\t\t\t<td>\n              ich?\n\t\t\t</td>\n\t\t\n\t\t</tr>\n\t\t<tr class=\"table-warning\">\n\t\t\t<td>\n\t\t\t\t2.P.Sg.\n\t\t\t</td>\n\t\t\t<td>\n\t\t\t\tGeh<strong>st</strong>\n\t\t\t</td>\n\t\t\t<td>\n              du?\n\t\t\t</td>\n\t\t\n\t\t</tr>\n\t\t<tr class=\"table-success\">\n\t\t\t<td>\n\t\t\t\t3.P.Sg.\n\t\t\t</td>\n\t\t\t<td>\n              Geh<strong>t</strong>\n\t\t\t</td>\n\t\t\t<td>\n              er/sie/es/man?\n\t\t\t</td>\n\t\t\n\t\t</tr>\n\t\t<tr class=\"table-light\">\n\t\t\t<td>\n\t\t\t\t1.P.Pl.\n\t\t\t</td>\n\t\t\t<td>\n\t\t\t\tGeh<strong>en</strong>\n\t\t\t</td>\n\t\t\t<td>\n              wir?\n\t\t\t</td>\n\t\t\n\t\t</tr>\n\t\t<tr class=\"table-warning\">\n\t\t\t<td>\n\t\t\t\t2.P.Pl.\n\t\t\t</td>\n\t\t\t<td>\n\t\t\t\tGeh<strong>t</strong>.\n\t\t\t</td>\n\t\t\t<td>\n              ihr?\n\t\t\t</td>\n\t\t\n\t\t</tr>\n\t\t<tr class=\"table-success\">\n\t\t\t<td>\n\t\t\t\t3.P.Pl.\n\t\t\t</td>\n\t\t\t<td>\n              Geh<strong>en</strong>  \n\t\t\t</td>\n\t\t\t<td>\n              sie?\n\t\t\t</td>\n\t\t\n\t\t</tr><tr class=\"table-dark\">\n\t\t\t<td>\n\t\t\t\t\n\t\t\t</td>\n\t\t\t<td>\n\t\t\t\t\n\t\t\t</td>\n\t\t\t<td>\n\t\t\t\t\n\t\t\t</td>\n\t\t\t\n\t\t</tr>\n\t</tbody>\n</table>\n                            \n                        <p></p>\n                    </div>\n                </div>\n            </div>\n            \n        </div>\n    </div>\n</section>",
+          "_PHPplaceholders": [],
+          "_JSplaceholders": [],
+          "_customCSS": ".table {\n  width: 100%;\n  margin-left: auto;\n  margin-right: auto;\n}",
+          "_customTemplate": true
         },
         {
           "_params": {
